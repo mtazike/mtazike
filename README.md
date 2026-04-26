@@ -5,8 +5,8 @@ I am Mahya, a PhD Candidate in Human-Computer Interaction at Indiana University 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/mahya-tazike  
 - Website: https://mahyatazike.com  
-- ORCID: https://orcid.org/0000-0001-6757-666X
-- Google Scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AIqSsVu43dPzUJ1PsB0q19ibYOkRPNcQFR3P3EQpJwmS2ItlO5vM13-Qkh0FUwbbKLeZNdWa3vlhiahnsHQYuS0LWF61&user=YS3WpoYAAAAJ
+- ORCID: https://orcid.org/0000-0001-6757-666X  
+- Google Scholar: [Mahya Tazike](https://scholar.google.com/citations?user=YS3WpoYAAAAJ)
 
 ## Research Focus
 XR (VR/AR) • AI & LLMs • Health Tech • ADHD
