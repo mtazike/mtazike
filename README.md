@@ -1,17 +1,14 @@
 ## Hi there 👋
 
-<!--
-**mtazike/mtazike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mahya, a PhD Candidate in Human-Computer Interaction at Indiana University Indianapolis. My research focuses on XR (VR/AR), AI, and LLM-integrated systems for health applications, with an emphasis on ADHD, attention, cognitive load, and engagement in social and immersive environments. I also hold a minor in Data Science.
 
-Here are some ideas to get you started:
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/mahya-tazike  
+- Website: https://mahyatazike.com  
+- ORCID: https://orcid.org/0000-0001-6757-666X  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img width="880" height="600" alt="Gemini_Generated_Image_94ff1u94ff1u94ff" src="https://github.com/user-attachments/assets/455623af-ef25-4476-9fe5-3006d0e5b73b" />
+## 🧠 Research Focus
+XR (VR/AR) • AI & LLMs • Health Tech • ADHD • Attention & Cognitive Load • Social VR
+
+## 🖼️
+<img width="880" height="600" src="https://github.com/user-attachments/assets/8a40e9d9-7a55-42b1-b7e6-d74d30472e6f" />
