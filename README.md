@@ -11,4 +11,4 @@ I am Mahya, a PhD Candidate in Human-Computer Interaction at Indiana University 
 XR (VR/AR) • AI & LLMs • Health Tech • ADHD
 
 ## 
-<img width="880" height="600" src="https://github.com/user-attachments/assets/8a40e9d9-7a55-42b1-b7e6-d74d30472e6f" />
+<img width="700" height="600" src="https://github.com/user-attachments/assets/8a40e9d9-7a55-42b1-b7e6-d74d30472e6f" />
